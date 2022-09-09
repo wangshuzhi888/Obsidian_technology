@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "obsidian_technology",
+  "version": "${version}",
+  "name": "obsidian_technology",
+  "description": "The obsidian technology",
+  "authors": [
+    "Shuzhi"
+  ],
+  "contact": {
+    "website": "---",
+    "repo": "---"
+  },
+  "license": "MIT",
+  "icon": "assets/obsidian_technology/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.shuzhi.obsidian_technology.client.Obsidian_technologyClient"
+    ],
+    "main": [
+      "com.shuzhi.obsidian_technology.Obsidian_technology"
+    ]
+  },
+  "mixins": [
+    "obsidian_technology.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

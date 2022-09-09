@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "OOO",
+    "   "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "obsidian_technology:obsidian_ingot",
+    "count": 6
+  }
+}

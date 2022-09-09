@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OO ",
+    "OT ",
+    " T "
+  ],
+  "key": {
+    "O": {
+      "item": "obsidian_technology:obsidian_ingot"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  }
+}
