@@ -26,12 +26,12 @@ public class ObsidianToolMaterial  implements ToolMaterial {
 
     @Override
     public float getAttackDamage() {
-        return 50.0F;
+        return 9999999999999.0F;
     }
 
     @Override
     public int getMiningLevel() {
-        return 10;
+        return 1000;
     }
 
     @Override

@@ -3,5 +3,8 @@
   "itemGroup.obsidian_technology.obsidian_technology_group": "Obsidian Technology",
   "item.obsidian_technology.obsidian-ingot.tooltip": "Obsidian ingot",
   "item.obsidian_technology.obsidian_sword": "Obsidian sword",
-  "item.obsidian_technology.obsidian_shovel": "Obsidian shovel"
+  "item.obsidian_technology.obsidian_shovel": "Obsidian shove",
+  "item.obsidian_technology.obsidian_pickaxe": "Obsidian Pickaxe",
+  "item.obsidian_technology.obsidian_axe": "Obsidian Axe",
+  "item.obsidian_technology.obsidian_hoe": "Obsidian Hoe"
 }
